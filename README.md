@@ -1,16 +1,20 @@
-### Hi there 👋
+🌱 Learning Never Stops 🚀
+👨‍💻 Check out my personal portfolio : Portfolio
+Connect with me:
+LinkedIn Gmail
+Web Tech Stack :
+HTML5 CSS3 JavaScript TailwindCSS
+React
+Languages :
+Java
 
-<!--
-**bhaumikpatel7/bhaumikpatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+c++
 
-Here are some ideas to get you started:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+
+Databases :
+MySQL MongoDB
+Hosting :
+AWS Vercel Netlify
